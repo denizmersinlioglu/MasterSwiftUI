@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		40461E1323606AF500A4A5BF /* BuyTicketsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40461E1223606AF500A4A5BF /* BuyTicketsView.swift */; };
 		4051141F2360485B006C55DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4051141E2360485B006C55DB /* AppDelegate.swift */; };
 		405114212360485B006C55DB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405114202360485B006C55DB /* SceneDelegate.swift */; };
 		405114232360485B006C55DB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405114222360485B006C55DB /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		40461E1223606AF500A4A5BF /* BuyTicketsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyTicketsView.swift; sourceTree = "<group>"; };
 		4051141B2360485B006C55DB /* MoviesSwiftUIDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoviesSwiftUIDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4051141E2360485B006C55DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		405114202360485B006C55DB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				4051141E2360485B006C55DB /* AppDelegate.swift */,
 				405114202360485B006C55DB /* SceneDelegate.swift */,
 				405114222360485B006C55DB /* ContentView.swift */,
+				40461E1223606AF500A4A5BF /* BuyTicketsView.swift */,
 				405114242360485B006C55DB /* Assets.xcassets */,
 				405114292360485B006C55DB /* LaunchScreen.storyboard */,
 				4051142C2360485B006C55DB /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4051141F2360485B006C55DB /* AppDelegate.swift in Sources */,
+				40461E1323606AF500A4A5BF /* BuyTicketsView.swift in Sources */,
 				405114212360485B006C55DB /* SceneDelegate.swift in Sources */,
 				405114232360485B006C55DB /* ContentView.swift in Sources */,
 			);

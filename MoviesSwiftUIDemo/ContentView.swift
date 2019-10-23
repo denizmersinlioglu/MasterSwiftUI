@@ -28,7 +28,7 @@ struct ContentView: View {
     var body: some View {
         GeometryReader{ geo in
             ScrollView{
-                VStack(spacing: 48){
+                VStack(spacing: 40){
                     Text("Dev House Movie")
                         .font(.system(size: 20, weight: .semibold))
                     ForEach(self.movies, id: \.self){ row in
