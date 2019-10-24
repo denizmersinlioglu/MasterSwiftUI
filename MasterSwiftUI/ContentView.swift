@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  MoviesSwiftUIDemo
+//  MasterSwiftUI
 //
 //  Created by Deniz Mersinlioğlu on 23.10.2019.
 //  Copyright © 2019 DevelopmentHouse. All rights reserved.

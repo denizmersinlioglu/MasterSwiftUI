@@ -42,7 +42,7 @@
 		405114122360485A006C55DB = {
 			isa = PBXGroup;
 			children = (
-				4051141D2360485B006C55DB /* MoviesSwiftUIDemo */,
+				4051141D2360485B006C55DB /* MasterSwiftUI */,
 				4051141C2360485B006C55DB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4051141D2360485B006C55DB /* MoviesSwiftUIDemo */ = {
+		4051141D2360485B006C55DB /* MasterSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
 				4051141E2360485B006C55DB /* AppDelegate.swift */,
@@ -67,7 +67,7 @@
 				4051142C2360485B006C55DB /* Info.plist */,
 				405114262360485B006C55DB /* Preview Content */,
 			);
-			path = MoviesSwiftUIDemo;
+			path = MasterSwiftUI;
 			sourceTree = "<group>";
 		};
 		405114262360485B006C55DB /* Preview Content */ = {
@@ -81,9 +81,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4051141A2360485B006C55DB /* MoviesSwiftUIDemo */ = {
+		4051141A2360485B006C55DB /* MasterSwiftUI */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4051142F2360485B006C55DB /* Build configuration list for PBXNativeTarget "MoviesSwiftUIDemo" */;
+			buildConfigurationList = 4051142F2360485B006C55DB /* Build configuration list for PBXNativeTarget "MasterSwiftUI" */;
 			buildPhases = (
 				405114172360485B006C55DB /* Sources */,
 				405114182360485B006C55DB /* Frameworks */,
@@ -93,7 +93,7 @@
 			);
 			dependencies = (
 			);
-			name = MoviesSwiftUIDemo;
+			name = MasterSwiftUI;
 			productName = MoviesSwiftUIDemo;
 			productReference = 4051141B2360485B006C55DB /* MasterSwiftUI.app */;
 			productType = "com.apple.product-type.application";
@@ -113,7 +113,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 405114162360485A006C55DB /* Build configuration list for PBXProject "MoviesSwiftUIDemo" */;
+			buildConfigurationList = 405114162360485A006C55DB /* Build configuration list for PBXProject "MasterSwiftUI" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -126,7 +126,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4051141A2360485B006C55DB /* MoviesSwiftUIDemo */,
+				4051141A2360485B006C55DB /* MasterSwiftUI */,
 			);
 		};
 /* End PBXProject section */
@@ -289,10 +289,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"MoviesSwiftUIDemo/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"MasterSwiftUI/Preview Content\"";
 				DEVELOPMENT_TEAM = S4X4KH6498;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = MoviesSwiftUIDemo/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/MasterSwiftUI/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -309,10 +309,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"MoviesSwiftUIDemo/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"MasterSwiftUI/Preview Content\"";
 				DEVELOPMENT_TEAM = S4X4KH6498;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = MoviesSwiftUIDemo/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/MasterSwiftUI/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -327,7 +327,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		405114162360485A006C55DB /* Build configuration list for PBXProject "MoviesSwiftUIDemo" */ = {
+		405114162360485A006C55DB /* Build configuration list for PBXProject "MasterSwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4051142D2360485B006C55DB /* Debug */,
@@ -336,7 +336,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4051142F2360485B006C55DB /* Build configuration list for PBXNativeTarget "MoviesSwiftUIDemo" */ = {
+		4051142F2360485B006C55DB /* Build configuration list for PBXNativeTarget "MasterSwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				405114302360485B006C55DB /* Debug */,

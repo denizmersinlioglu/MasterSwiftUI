@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4051141A2360485B006C55DB"
-               BuildableName = "SwiftUI.app"
-               BlueprintName = "MoviesSwiftUIDemo"
-               ReferencedContainer = "container:MoviesSwiftUIDemo.xcodeproj">
+               BuildableName = "MasterSwiftUI.app"
+               BlueprintName = "MasterSwiftUI"
+               ReferencedContainer = "container:MasterSwiftUI.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4051141A2360485B006C55DB"
-            BuildableName = "SwiftUI.app"
-            BlueprintName = "MoviesSwiftUIDemo"
-            ReferencedContainer = "container:MoviesSwiftUIDemo.xcodeproj">
+            BuildableName = "MasterSwiftUI.app"
+            BlueprintName = "MasterSwiftUI"
+            ReferencedContainer = "container:MasterSwiftUI.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4051141A2360485B006C55DB"
-            BuildableName = "SwiftUI.app"
-            BlueprintName = "MoviesSwiftUIDemo"
-            ReferencedContainer = "container:MoviesSwiftUIDemo.xcodeproj">
+            BuildableName = "MasterSwiftUI.app"
+            BlueprintName = "MasterSwiftUI"
+            ReferencedContainer = "container:MasterSwiftUI.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
