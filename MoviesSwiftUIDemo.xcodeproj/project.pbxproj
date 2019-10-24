@@ -18,7 +18,7 @@
 
 /* Begin PBXFileReference section */
 		40461E1223606AF500A4A5BF /* BuyTicketsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyTicketsView.swift; sourceTree = "<group>"; };
-		4051141B2360485B006C55DB /* MoviesSwiftUIDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoviesSwiftUIDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4051141B2360485B006C55DB /* MasterSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MasterSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4051141E2360485B006C55DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		405114202360485B006C55DB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		405114222360485B006C55DB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		4051141C2360485B006C55DB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4051141B2360485B006C55DB /* MoviesSwiftUIDemo.app */,
+				4051141B2360485B006C55DB /* MasterSwiftUI.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,7 +95,7 @@
 			);
 			name = MoviesSwiftUIDemo;
 			productName = MoviesSwiftUIDemo;
-			productReference = 4051141B2360485B006C55DB /* MoviesSwiftUIDemo.app */;
+			productReference = 4051141B2360485B006C55DB /* MasterSwiftUI.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -297,8 +297,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.DevelopmentHouse.MoviesSwiftUIDemo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.DevelopmentHouse.MasterSwiftUI;
+				PRODUCT_NAME = MasterSwiftUI;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -317,8 +317,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.DevelopmentHouse.MoviesSwiftUIDemo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.DevelopmentHouse.MasterSwiftUI;
+				PRODUCT_NAME = MasterSwiftUI;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
